@@ -137,7 +137,7 @@
 
 		%------------------------------------------------
 
-		\profilesection{About me}{2.6cm}
+		\profilesection{About Brian}{2.6cm}
 			
 		\begin{flushleft}
 			\aboutme
