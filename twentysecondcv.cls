@@ -137,11 +137,11 @@
 
 		%------------------------------------------------
 
-		\profilesection{About Brian}{2.6cm}
+		%\profilesection{About}{3.5cm}
 			
-		\begin{flushleft}
-			\aboutme
-		\end{flushleft}
+		%\begin{flushleft}
+		%	\aboutme
+		%\end{flushleft}
 
 		%------------------------------------------------
 
@@ -150,7 +150,7 @@
 		\skills
 		\skillstext
 		\scriptsize
-		(*)[The skill scale is from 0 (Fundamental Awareness) to 6 (Expert).]
+		%(*)[The skill scale is from 0 (Fundamental Awareness) to 6 (Expert).]
 			
 		%------------------------------------------------
 			
