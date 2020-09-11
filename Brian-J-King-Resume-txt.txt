@@ -1,0 +1,147 @@
+BRIAN J. KING
+
+brianjosephking@gmail.com
++1.312.889.4831
+https://brianjking.io
+Seattle, WA
+
+Experience
+======
+Product Owner - Support
+BrandMuscle
+2020 - Ongoing
+Seattle, WA
+
+Freelance
+Brian J King
+01/2017 - Ongoing
+https://brianjking.io
+Provides freelance consulting, web design/WordPress development, social media marketing, & technical documentation writing services.
+
+Product Owner 
+DockDogs, Inc
+01/2012 - 01/2017
+https://dockdogs.com
+Chicago, IL
+ - Product Owner for Scrum team developing web application
+which handles event registrations, processes Titles/Rankings,
+event results, etc.
+ - Built and maintained DockDogs website using WordPress. API integration with web application for event registration
+ - Created, instituted, and maintained online DockDogs Standard
+Operating Procedures and Policies manual built using MkDocs.
+ - Implementation of online Standard Operating Procedures & Policies manual decreased 40% of wasteful expenses from prior year.
+
+Product Owner 
+Dueling Dogs, LLC
+08/2015 - 01/2017
+https://duelingdogs.net
+Chicago, IL
+ - Product Owner for Scrum team tasked with developing web application which processes event registrations, Rankings, event results, etc. 
+ - Delivered web application early and under budget due to use of SCRUM/Agile.
+ - Built and maintained Dueling Dogs website using WordPress which integrates with registration system.
+ - Managed Dueling Dogs Social Media accounts (Facebook, Instagram, Twitter, YouTube).
+
+IT & Social Media Consultant
+The Upbeat K9
+01/2016 - 01/2017
+https://theupbeatk9.com
+Chicago, IL
+ - Built and maintained The Upbeat K9 company website.
+ - Assisted in management of The Upbeat K9 Social Media profiles
+(Facebook, Instagram, YouTube, Twitter).
+ - Assisted in the creation and management of targeted Facebook
+lead generation campaigns for newly opened franchise locations.
+ - Maintained webserver hosting The Upbeat K9 website.
+ - Administrator of G. Cloud (Google Apps for Business) for The Upbeat K9, LLC Headquarters & franchise locations.
+
+Partner & Social Media Strategist
+BADASS Dash, LLC
+05/2012 - 12/2016
+Chicago, IL
+ - Built BADASS Dash website (http://badassdash.com)
+ - Managed BADASS Dash Social Media accounts. 
+ - Planned and executed Facebook and Google targeted PPC/CPM display advertising. 
+ - Over 50% of event registrations were converted based on online advertising initiatives. 
+ - Managed all pre-event, live event, and post-event IT initiatives.
+
+Project Manager & Digital Media Technologist
+Digital Media Research Group @ BGSU
+10/2004 - 08/2009
+Bowling Green, OH
+Undergraduate and Graduate Assistantship while at Bowling Green State University. Research and Development of new and emerging technologies including building a distance learning application.
+ - Served as team's Project Manager.
+ - Managed an Apple XServe providing web server access and file sharing for BGSU College of Technology students and faculty.
+
+
+Volunteer
+======
+Open Source Contributor
+Various Open Source Projects
+2014 - Ongoing
+I contribute testing, write documentation, some code contribution, issue/bug report triage for open source projects such as Home Assistant, Snipe-IT, MkDocs, XTENDWEB, and Sphinx on GitHub and Stack Exchange.
+
+Meetup Organizer
+Chicago Mechanical Keyboards Community
+2018 - 2018
+Chicago, IL
+Organize meetups for Chicago area mechanical keyboard enthusiasts.
+
+Online Communications Chair
+American Cancer Society, Elyria Relay For Life
+2012 - 2013
+
+
+Skills
+======
+Agile Web Development Tools (JIRA/Clubhouse/Pivotal Tracker)
+
+Product Owner/Product Management
+
+Systems Development Life Cycle (SDLC)
+
+Business Analysis
+
+Software Documentation
+
+Verbal & Written Communication
+
+
+Education
+======
+M.Ed - Instructional Design / Technology Education
+3.6
+Bowling Green State University
+2007 - 2009
+
+B.S. - Visual Communications Technology & Marketing
+3.3
+Bowling Green State University
+2003 - 2007
+
+
+Achievements
+======
+Boy Scouts of America - Eagle Scout
+
+
+Publications
+======
+Commercial Media Viewing Habits: Digital Natives Versus Digital Immigrants
+Brian J. King
+2009
+
+
+References
+======
+Pete Gosselin
+Owner, 1Up Keyboards (https://1upkeyboards.com) 347.583.0449, pete@1upkeyboards.com
+
+Pradeep Sinha
+Senior Business Analyst @ Tavisca, pradeep.sinha@gmail.com, Phone: +91.976.654.1828 
+
+Sean Swearinger
+Director of Operations @ DockDogs | Phone: 805.587.0553
+
+Zach Schneider
+Senior Front End Engineer @ NCSA Athletic Recruiting | zachschneider@gmail.com | 773.980.9599
+
